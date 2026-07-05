@@ -1,4 +1,4 @@
-package escola.escola_api.escola_api.config;
+package escola.escola_api.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
